@@ -6,5 +6,5 @@ You need:
 2. Create or download docker-compose.yml from this repo
 3. Start command on master-node:
        docker stack deploy --compose-file docker-compose.yml name-stack
-4. Check work
+4. Check work:
        docker stack ls
